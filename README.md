@@ -4,7 +4,7 @@ Shell script to install a [Bring Masternode](https://bringhigh.site) on a Linux 
 
 ## Installation
 ```
-wget -N 
+wget -N https://raw.githubusercontent.com/bringproject/bring-setup-mn/master/bring_install.sh
 bash bring_install.sh
 ```
 ***
