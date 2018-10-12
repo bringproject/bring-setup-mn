@@ -6,6 +6,7 @@ Shell script to install a [Bring Masternode](https://bringhigh.site) on a Linux 
 ## Get a VPS
 
 [DigitalOcean](https://m.do.co/c/617b7cff2f5a)
+
 [Vultr](https://www.vultr.com/?ref=7509817)
 
 ***
