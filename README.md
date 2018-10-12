@@ -1,5 +1,13 @@
 # Bring
-Shell script to install a [Bring Masternode](https://bringhigh.site) on a Linux server running Ubuntu 16.04. Use it on your own risk.
+Shell script to install a [Bring Masternode](https://bringhigh.site) on a Linux server running Ubuntu 16.04.
+***
+
+
+## Get a VPS
+
+[DigitalOcean](https://m.do.co/c/617b7cff2f5a)
+[Vultr](https://www.vultr.com/?ref=7509817)
+
 ***
 
 ## Installation
